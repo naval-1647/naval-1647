@@ -1,86 +1,81 @@
-<h1 align="center">Hi 👋, I'm Naval Kishor Jha</h1>
-<h3 align="center">Aspiring Backend Developer | Python, Django Enthusiast | Open Source Explorer</h3>
+<h1 align="center">Hey there! Naval this side 👋</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/naval-kishor-jha-04858a259/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:menavaljha@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/naval-1647">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+# 🧮 About Me: <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" align="right" alt="Developer GIF">
+
+- 🎓 Final-year IT student at **IMT College of Engineering**, Greater Noida  
+- 🌱 Currently learning **AI/ML**, and **Backend Development**  
+- 💬 Ask me about **Python, Django, SQLite, MySQL**  
+- 📫 How to reach me: **menavaljha@gmail.com**  
+- ⚡ Fun fact: **I explore open-source tools in my free time!**
 
 ---
 
-### 🚀 About Me
 
-🎓 I'm currently pursuing **B.Tech in Information Technology** at IMT College of Engineering, Greater Noida (2025).  
-💡 Passionate about building efficient server-side solutions and exploring backend development with Django.  
-📈 Focused on mastering **API development**, **Database Management**, and **Problem Solving**.  
-🛠️ Skilled in Python, C++, Django, MySQL, SQLite, Git/GitHub.  
-🌱 Currently learning system design and cloud basics.  
-📫 Reach me at: **menavaljha@gmail.com**
+## 🌍 Connect with me
 
----
-
-### 🛠️ Tech Stack
-
-- **Languages**: Python, C++, JavaScript  
-- **Backend**: Django  
-- **Frontend**: HTML, CSS, Bootstrap  
-- **Database**: SQLite, MySQL  
-- **Tools**: Git, GitHub, VS Code  
-- **CS Fundamentals**: DSA, OOPS, DBMS, Operating Systems, CN, AI
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naval-kishor-jha-04858a259/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/mr._jha11/) 
+[![X](https://img.shields.io/badge/X-%23121011.svg?logo=x&logoColor=white)](https://x.com/navalraz) 
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2310813f.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/cdernjha/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/menavaljha)
+[![Leetcode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/Naval1647/) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/naval-1647)
 
 ---
 
-### 💼 Projects
+# 💻 Tools & Tech  
 
-📌 [**Office Employee Management System**](#)  
-A Django-based HR tool with CRUD, department-wise search, and admin dashboard.
+<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="370px" align="right" alt="Tech Workspace">
 
-📌 [**E-commerce Web Application**](#)  
-Full-stack web app with product catalog, cart, order tracking, authentication, and admin panel.
-
-📌 [**Online Learning Platform**](#)  
-E-learning portal with user registration, course listings, and interactive content.
-
-📌 [**Library Management System**](#)  
-Track books, users, fines, and borrowing with full admin functionality in Django.
-
----
-
-### 📜 Certifications
-
-- Google Cyber Security Certificate  
-- Google Cloud Bootcamp  
-- HackerRank – Python (Basic)  
-- SQL Micro Course – Cuvette
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naval-1647&show_icons=true&theme=radical" alt="Naval's GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naval-1647&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="80"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50"/><br>Python</td>
+    <td align="center" width="80"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50"/><br>Django</td>
+    <td align="center" width="80"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50"/><br>MySQL</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=sqlite" width="45"/><br>SQLite</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML</td>
+  </tr>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=bootstrap" width="45"/><br>Bootstrap</td>
+    <td align="center" width="80"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="50"/><br>GitHub</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>VS Code</td>
+  </tr>
+  <tr>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/><br>C</td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br>C++</td>
+  </tr>
+</table>
 
 ---
 
-### ⚡ Fun Facts
+## 📈 GitHub Stats & Coding Cards
 
-- 🎮 I enjoy playing cricket when I’m not coding.
-- 🧠 I like exploring open-source projects to learn real-world coding patterns.
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naval-1647&theme=blue-green" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naval-1647&show_icons=true&theme=transparent&bg_color=000&border_color=30A3DC&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naval-1647&layout=compact&theme=radical" />
+</div>
 
 ---
 
-### 🔗 Let’s Connect!
+## 🏆 GitHub Trophies
 
-📧 **menavaljha@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/naval-kishor-jha-04858a259/) | [GitHub](https://github.com/naval-1647)
+![Trophies](https://github-profile-trophy.vercel.app/?username=naval-1647&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+---
+
+### ✍️ Dev Quote
+
+<img src="https://user-images.githubusercontent.com/74038190/212259363-d40b7a35-375b-470c-b4e2-2d9cb8ac706c.png" width="300px" align="right" />
+
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+
+---
+![Visitor Count](https://komarev.com/ghpvc/?username=naval-1647&color=5E03FC&style=plastic&label=✨Profile Visits✨)
+
+---
+
+![Snake animation](https://github.com/GabrielaSinastre/GabrielaSinastre/blob/output/github-contribution-grid-snake.svg)
