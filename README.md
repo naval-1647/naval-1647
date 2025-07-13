@@ -17,7 +17,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/mr._jha11/) 
 [![X](https://img.shields.io/badge/X-%23121011.svg?logo=x&logoColor=white)](https://x.com/navalraz) 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2310813f.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/cdernjha/)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/menavaljha)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/CODERNJHA)
 [![Leetcode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/Naval1647/) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/naval-1647)
 
