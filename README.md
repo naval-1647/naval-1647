@@ -2,14 +2,13 @@
 
 # 🧮 About Me: <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" align="right" alt="Developer GIF">
 
-- 🎓 Final-year IT student at **IMT College of Engineering**, Greater Noida  
+- 🎓 B.Tech Graduate in Information Technology from **IMT College of Engineering**, Greater Noida  
 - 🌱 Currently learning **AI/ML**, and **Backend Development**  
 - 💬 Ask me about **Python, Django, SQLite, MySQL**  
 - 📫 How to reach me: **menavaljha@gmail.com**  
 - ⚡ Fun fact: **I explore open-source tools in my free time!**
 
 ---
-
 
 ## 🌍 Connect with me
 
@@ -25,7 +24,7 @@
 
 # 💻 Tools & Tech  
 
-<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="370px" align="right" alt="Tech Workspace">
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="370px" align="right" alt="Python GIF">
 
 <table align="center">
   <tr>
@@ -74,6 +73,7 @@
 [![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=naval-1647&color=5E03FC&style=plastic&label=✨Profile Visits✨)
 
 ---
