@@ -1,6 +1,16 @@
 <h1 align="center">Hey there! Naval this side 👋</h1>
+<div align="center">
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" align="center" alt="Developer GIF">
+</div>
 
-# 🧮 About Me: <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" align="right" alt="Developer GIF">
+<h3 align="center">🧠 Python Developer | 🛠️ Django Backend Engineer | 🌐 Open Source Enthusiast</h3>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=naval-1647&label=✨Profile%20Views✨&color=5E03FC&style=flat" alt="Profile Views" /> 
+</p>
+
+
+# 🧮 About Me: 
 
 - 🎓 B.Tech Graduate in Information Technology from **IMT College of Engineering**, Greater Noida  
 - 🌱 Currently learning **AI/ML**, and **Backend Development**  
@@ -24,7 +34,7 @@
 
 # 💻 Tools & Tech  
 
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="370px" align="right" alt="Python GIF">
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="310px" align="right" alt="Python GIF">
 
 <table align="center">
   <tr>
