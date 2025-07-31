@@ -34,7 +34,7 @@
 
 # 💻 Tools & Tech  
 
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="310px" align="right" alt="Python GIF">
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="250px" align="right" alt="Python GIF">
 
 <table align="center">
   <tr>
