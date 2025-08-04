@@ -82,9 +82,7 @@
 
 [![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
----
 
-![Visitor Count](https://komarev.com/ghpvc/?username=naval-1647&color=5E03FC&style=plastic&label=✨Profile Visits✨)
 
 ---
 
