@@ -14,7 +14,7 @@
 
 - 🎓 B.Tech Graduate in Information Technology from **IMT College of Engineering**, Greater Noida  
 - 🌱 Currently learning **AI/ML**, and **Backend Development**  
-- 💬 Ask me about **Python, Django, SQLite, MySQL**  
+- 💬 Ask me about **Python, Django, FastAPI, SQLite, MySQL, MongoDB**  
 - 📫 How to reach me: **menavaljha@gmail.com**  
 - ⚡ Fun fact: **I explore open-source tools in my free time!**
 
@@ -34,28 +34,37 @@
 
 # 💻 Tools & Tech  
 
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="250px" align="right" alt="Python GIF">
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="350px" align="right" alt="Python GIF">
 
 <table align="center">
   <tr>
     <td align="center" width="80"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50"/><br>Python</td>
     <td align="center" width="80"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50"/><br>Django</td>
-    <td align="center" width="80"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50"/><br>MySQL</td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=sqlite" width="45"/><br>SQLite</td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=fastapi" width="45"/><br>FastAPI</td>
+    <td align="center" width="80"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="40"/><br>Postman</td>
+    
   </tr>
   <tr>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS</td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=bootstrap" width="45"/><br>Bootstrap</td>
-    <td align="center" width="80"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="50"/><br>GitHub</td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>VS Code</td>
+    <td align="center" width="100"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50"/><br>MySQL</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>MongoDB</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=sqlite" width="45"/><br>SQLite</td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br>PostgreSQL</td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=bootstrap" width="45"/><br>Bootstrap</td>
   </tr>
   <tr>
     <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/><br>C</td>
     <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br>C++</td>
+    <td align="center" width="80"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="50"/><br>GitHub</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>VS Code</td>   
   </tr>
 </table>
+
+
 
 ---
 
