@@ -10,7 +10,7 @@
 </p>
 
 
-# 🧮 About Me: 
+## 🧮 About Me: 
 
 - 🎓 B.Tech Graduate in Information Technology from **IMT College of Engineering**, Greater Noida  
 - 🌱 Currently learning **AI/ML**, and **Backend Development**  
