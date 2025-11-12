@@ -1,4 +1,4 @@
- <h1 align="center">Hey there! Naval this side 👋</h1>
+<h1 align="center">Hey there! Naval this side 👋</h1>
 <div align="center">
  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" align="center" alt="Developer GIF">
 </div>
